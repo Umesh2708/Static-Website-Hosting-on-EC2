@@ -42,9 +42,9 @@ User → Internet → Security Group (Firewall) → EC2 Instance → Web Applica
 
 ### ✅ Step 1 (Optional): Create an AWS IAM User (For Secure Access)
 
-> This step is optional.  
-> If you want secure access and want to avoid using the root account, you can create an IAM user.  
-> Otherwise, you can directly continue to **Step 2**.
+This step is optional.  
+If you want secure access and want to avoid using the root account, you can create an IAM user.  
+Otherwise, you can directly continue to **Step 2**.
 
 1. Login to **AWS Management Console**
 2. Go to: **IAM → Users → Add users**
